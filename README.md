@@ -10,3 +10,7 @@ The main contents of this repo are as follows:
 ```
 project
 └─── week3
+|   |___data
+|   |___results
+|   | mcinroe_paper.pdf
+|   | week_3_experiments.ipynb
